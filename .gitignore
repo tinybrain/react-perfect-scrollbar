@@ -3,5 +3,6 @@ lib/
 dist/
 .idea/
 typings/
+.npmrc
 
 npm-*.log
