@@ -1,6 +1,6 @@
 {
   "name": "@ciss/react-perfect-scrollbar",
-  "version": "1.5.9-alpha.0",
+  "version": "1.5.10-alpha.0",
   "description": "A react wrapper for perfect-scrollbar",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
